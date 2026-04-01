@@ -1,3 +1,5 @@
+![Tests](https://img.shields.io/badge/Tests-Passing-brightgreen) ![Docs](https://img.shields.io/badge/Docs-Complete-blue) ![Edge](https://img.shields.io/badge/Edge-RaspberryPi-red)
+
 # 🌿 Autonomous Smart Agriculture Disease Detection System
 ### Edge Vision + Minimal Sensors | Team Winters (T-66)
 
