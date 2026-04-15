@@ -5,7 +5,7 @@ from fastapi import APIRouter, Depends, HTTPException, status
 from fastapi.security import OAuth2PasswordBearer
 
 # ====== USER FILL THESE IN ======
-CLERK_ISSUER = "https://fine-lobster-78.clerk.accounts.dev"
+CLERK_ISSUER = "https://sincere-salmon-67.clerk.accounts.dev"
 # ================================
 
 oauth2_scheme = OAuth2PasswordBearer(tokenUrl="api/token")

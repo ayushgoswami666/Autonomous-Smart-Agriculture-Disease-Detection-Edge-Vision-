@@ -5,7 +5,7 @@ import './index.css'
 import App from './App.jsx'
 
 // ====== USER FILL THESE IN ======
-const PUBLISHABLE_KEY = "pk_test_ZmluZS1sb2JzdGVyLTc4LmNsZXJrLmFjY291bnRzLmRldiQ"
+const PUBLISHABLE_KEY = "pk_test_c2luY2VyZS1zYWxtb24tNjcuY2xlcmsuYWNjb3VudHMuZGV2JA"
 // ================================
 
 if (!PUBLISHABLE_KEY || PUBLISHABLE_KEY === "pk_test_YOUR_CLERK_PUBLISHABLE_KEY_HERE") {
